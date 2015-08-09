@@ -2,6 +2,14 @@
 
 This project is a cookiecutter wrapper for Evan David Goer's [pandoc-ebook-template](https://github.com/evangoer/pandoc-ebook-template) project which creates ebooks out of Pandoc Markdown.
 
+## Why? 
+
+After cloning Evan's project four or five times and then having remember which places to update, it became apparent that I at least needed this template. Enjoy!
+
+## Bla bla LaTeX is better than using Markdown...
+
+Yes, you are right but life is too short to stare at LaTeX if Markdown will work.
+
 ## Using this template
 
     $ pip install cookiecutter
@@ -25,4 +33,4 @@ You should be able to run `make` form inside your ebook's folder to generate you
 
 ## License
 
-BSD licensed.
+BSD licensed and Evan's is MIT (included inside the template repo).
