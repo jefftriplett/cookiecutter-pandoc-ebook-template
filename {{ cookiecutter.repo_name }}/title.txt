@@ -1,0 +1,2 @@
+% {{ cookiecutter.book_title }}
+% {{ cookiecutter.full_name }}

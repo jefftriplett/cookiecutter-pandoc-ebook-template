@@ -1,0 +1,5 @@
+<dc:rights>Copyright ©{{ cookiecutter.year }}, {{ cookiecutter.full_name }}</dc:rights>
+<dc:language>en-US</dc:language>
+<dc:creator opf:file-as="{{ cookiecutter.full_name }}" opf:role="aut">{{ cookiecutter.full_name }}</dc:creator>
+<dc:publisher>{{ cookiecutter.full_name }}</dc:publisher>
+<dc:date opf:event="publication">{{ cookiecutter.release_date }}</dc:date>
