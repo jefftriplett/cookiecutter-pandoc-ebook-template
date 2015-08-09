@@ -27,7 +27,7 @@ and [download the command line tools](http://stackoverflow.com/questions/9329243
 - [latex](http://www.latex-project.org/) (OS X users should probably
 install [MacTex](http://tug.org/mactex/).)
 
-You should be able to run `make` form inside your ebook's folder to generate your eboo.
+You should be able to run `make` form inside your ebook's folder to generate your ebook.
 
     $ make
 
